@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Ifeanyi Mojekwu</h1>
 <h3 align="center">Full Stack Engineer (C# and React) with a strong ownership mindset, proficiency in backend and frontend technologies, excellent communication and collaboration skills, and a passion for learning and adapting to new technologies.</h3>
 
